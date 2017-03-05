@@ -32,5 +32,9 @@ int main()
          } else if((srok >= 241 ) && (srok <= 365)) {	
              vklad = vklad * 1.15;
          }
+	printf("\nCуммa вклада на момент окончания срока: %g\n", vklad);
+	
+    return 0;
+}
             
-    }
+
