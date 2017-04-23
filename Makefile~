@@ -7,4 +7,4 @@ build/main.o: src/main.c
 build/deposit.o: src/deposit.c
 	gcc -Wall -Werror -c src/deposit.c -o build/deposit.o
 clean:
-	rm -rf build/*.o bin/*
+rm -rf build/*.o bin/*
