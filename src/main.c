@@ -14,4 +14,4 @@ int main()
     printf("\nCуммa вклада на момент окончания срока: %d\n", vklad);	
     return 0;
 }
-
+   

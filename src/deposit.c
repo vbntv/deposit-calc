@@ -35,4 +35,4 @@ int input(int *vklad, int *srok)
     }
     return 1;
 }
-
+    
